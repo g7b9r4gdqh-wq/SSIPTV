@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsxsv8YM/5985633640123582301.jpg" group-title="⚽ Fútbol", Fútbol de Españoles
+https://raw.githubusercontent.com/chukyvaliente/pack-wise-deportchuky/refs/heads/main/Futbol%20Espanoles.w3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsxsv8YM/5985633640123582301.jpg" group-title="⚽ Fútbol", Fútbol Países Europeos y Jeinmacias
+https://raw.githubusercontent.com/chukyvaliente/pack-wise-deportchuky/refs/heads/main/Futbol%20Paises%20Europeos%20y%20Jeinmacias.w3u
