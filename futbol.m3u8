@@ -1,6 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nsxsv8YM/5985633640123582301.jpg" group-title="⚽ Fútbol", Fútbol de Españoles
-https://raw.githubusercontent.com/chukyvaliente/pack-wise-deportchuky/refs/heads/main/Futbol%20Espanoles.w3u
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nsxsv8YM/5985633640123582301.jpg" group-title="⚽ Fútbol", Fútbol Países Europeos y Jeinmacias
-https://raw.githubusercontent.com/chukyvaliente/pack-wise-deportchuky/refs/heads/main/Futbol%20Paises%20Europeos%20y%20Jeinmacias.w3u
+# ======= ⚽️ FÚTBOL ESPAÑA =======
+#EXTINF:-1 group-title="Fútbol España" tvg-logo="https://i.ibb.co/IZ2MJVB/uefa.jpg", Campeones 1 (ES)
+https://raw.githubusercontent.com/chukyvaliente/pack-wise-deportchuky/refs/heads/main/Fútbol%20de%20Españoles.w3u
+#EXTINF:-1 group-title="Fútbol España" tvg-logo="https://i.ibb.co/IZ2MJVB/uefa.jpg", Campeones 2 (ES)
+https://raw.githubusercontent.com/chukyvaliente/pack-wise-deportchuky/refs/heads/main/Fútbol%20de%20Españoles.w3u
+#EXTINF:-1 group-title="Fútbol España" tvg-logo="https://i.ibb.co/IZ2MJVB/uefa.jpg", Multiliga (ES)
+https://raw.githubusercontent.com/chukyvaliente/pack-wise-deportchuky/refs/heads/main/Fútbol%20de%20Españoles.w3u
+
+
+# ======= 🌍 FÚTBOL EUROPA =======
+#EXTINF:-1 group-title="Fútbol Europa" tvg-logo="https://i.ibb.co/IZ2MJVB/uefa.jpg", Partido 1 (EU)
+https://raw.githubusercontent.com/chukyvaliente/pack-wise-deportchuky/refs/heads/main/Fútbol%20Países%20Europeos%20y%20Jeinmacias.w3u
+#EXTINF:-1 group-title="Fútbol Europa" tvg-logo="https://i.ibb.co/IZ2MJVB/uefa.jpg", Partido 2 (EU)
+https://raw.githubusercontent.com/chukyvaliente/pack-wise-deportchuky/refs/heads/main/Fútbol%20Países%20Europeos%20y%20Jeinmacias.w3u
+#EXTINF:-1 group-title="Fútbol Europa" tvg-logo="https://i.ibb.co/IZ2MJVB/uefa.jpg", Multiliga (EU)
+https://raw.githubusercontent.com/chukyvaliente/pack-wise-deportchuky/refs/heads/main/Fútbol%20Países%20Europeos%20y%20Jeinmacias.w3u
